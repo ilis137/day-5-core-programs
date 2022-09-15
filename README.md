@@ -1,6 +1,7 @@
 # day-5-core-programs
 
 1. Harmonic Number
+
     a. Desc -> Prints the Nth harmonic number: 1/1 + 1/2 + ... + 1/N
     (http://users.encs.concordia.ca/~chvatal/notes/harmonic.html).
     
@@ -15,6 +16,7 @@
 
 
 3. Sum of three Integer adds to ZERO
+
     a. Desc -> A program with cubic running time. Read in N integers and counts the
     number of triples that sum to exactly 0.
     
