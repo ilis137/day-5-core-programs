@@ -12,7 +12,12 @@
     d. O/P -> Print the Nth Harmonic Value.
 
 
+
+
 2. Java Program to Swap Two Numbers without Third number.
+
+
+
 
 
 3. Sum of three Integer adds to ZERO
